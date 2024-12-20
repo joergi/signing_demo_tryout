@@ -5,4 +5,4 @@ set -o pipefail
 set -o nounset
 
 
-echo "This is harmless but unverified"
+echo "This is harmless and signed"
