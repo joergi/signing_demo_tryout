@@ -5,4 +5,4 @@ set -o pipefail
 set -o nounset
 
 
-echo "I'm Linus and I love to use Windows"
+echo "I'm Kelsey - please never use Kubernetes"
