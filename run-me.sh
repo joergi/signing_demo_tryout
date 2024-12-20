@@ -5,4 +5,4 @@ set -o pipefail
 set -o nounset
 
 
-echo "This is harmful code and will install worms in our infrastructure"
+echo "This is harmless but unverified"
